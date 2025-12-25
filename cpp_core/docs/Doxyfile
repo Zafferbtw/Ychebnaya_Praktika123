@@ -1,0 +1,8 @@
+PROJECT_NAME           = "matrixlib_practice"
+OUTPUT_DIRECTORY       = doxygen_out
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+INPUT                  = ../matrix/include
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+QUIET                  = YES
